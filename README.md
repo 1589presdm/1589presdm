@@ -36,10 +36,10 @@ English: working proficiency
 - [ReservationSystem](https://github.com/1589presdm/ReservationSystem)  
   Desktop reservation management application built with C# and database integration.
 
-- [Neljän Suora - Connect Four Minimax](https://github.com/1589presdm/Nelj-n-Suora-Connect-4-Minimax)  
+- [Neljän Suora — Connect-4 Minimax](https://github.com/1589presdm/Nelj-n-Suora-Connect-4-Minimax)  
   Connect Four game with a Minimax-based AI opponent and alpha-beta pruning.
 
-- [car_cost_calculator](https://github.com/1589presdm/car_cost_calculator)  
+- [Сar cost calculator](https://github.com/1589presdm/car_cost_calculator)  
   Python tool for comparing car ownership costs.
 
 ## Goals
