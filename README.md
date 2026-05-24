@@ -27,9 +27,9 @@ I am interested in backend systems, data-oriented applications, clean project st
 
 ## Languages
 
-Russian: native  
-Finnish: study and work environment  
-English: working proficiency
+**Russian**: native  
+**Finnish**: study and work environment  
+**English**: working proficiency
 
 ## Selected projects
 
