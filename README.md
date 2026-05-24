@@ -1,4 +1,4 @@
-# Hi, I'm Dmitrii Presniakov
+## Hi, I'm Dmitrii Presniakov
 
 Junior software developer focused on Python, backend development and practical software engineering.
 
@@ -24,6 +24,12 @@ I am interested in backend systems, data-oriented applications, clean project st
 **Databases:** MariaDB, SQL, database design basics  
 **Tools:** Git, GitHub, Linux, Docker basics, VS Code, PyCharm
 **Data & ML tools:** NumPy, pandas, Matplotlib, PyTorch 
+
+## Languages
+
+Russian: native  
+Finnish: study and work environment  
+English: working proficiency
 
 ## Selected projects
 
