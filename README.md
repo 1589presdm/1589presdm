@@ -39,6 +39,9 @@ I am interested in backend systems, data-oriented applications, clean project st
 - [Neljän Suora — Connect-4 Minimax](https://github.com/1589presdm/Nelj-n-Suora-Connect-4-Minimax)  
   Connect Four game with a Minimax-based AI opponent and alpha-beta pruning.
 
+- [Team of athletes](https://github.com/1589presdm/Team-of-athletes)
+  A student full-stack athlete management application with a React frontend, Express REST API, and MariaDB database.
+
 - [Сar cost calculator](https://github.com/1589presdm/car_cost_calculator)  
   Python tool for comparing car ownership costs.
 
