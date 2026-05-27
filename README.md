@@ -19,11 +19,11 @@ I am interested in backend systems, data-oriented applications, clean project st
 
 ## Tech stack
 
-**Languages:** Python, C#, SQL   
-**Backend:** REST APIs, basic .NET experience 
+**Languages:** Python, C#, SQL  
+**Backend:** REST APIs, basic .NET experience  
 **Databases:** MariaDB, SQL, database design basics  
-**Tools:** Git, GitHub, Linux, Docker basics, VS Code, PyCharm
-**Data & ML tools:** NumPy, pandas, Matplotlib, PyTorch 
+**Tools:** Git, GitHub, Linux, Docker basics, VS Code, PyCharm  
+**Data & ML tools:** NumPy, pandas, Matplotlib, PyTorch
 
 ## Languages
 
@@ -39,13 +39,13 @@ I am interested in backend systems, data-oriented applications, clean project st
 - [Neljän Suora — Connect-4 Minimax](https://github.com/1589presdm/Nelj-n-Suora-Connect-4-Minimax)  
   Connect Four game with a Minimax-based AI opponent and alpha-beta pruning.
 
-- [Team of athletes](https://github.com/1589presdm/Team-of-athletes)
-  A student full-stack athlete management application with a React frontend, Express REST API, and MariaDB database.
+- [Team of athletes](https://github.com/1589presdm/Team-of-athletes)  
+  Student full-stack athlete management application with a React frontend, Express REST API, and MariaDB database.
 
-- [Сar cost calculator](https://github.com/1589presdm/car_cost_calculator)  
+- [Car cost calculator](https://github.com/1589presdm/car_cost_calculator)  
   Python tool for comparing car ownership costs.
 
-## Goals
+## Looking for
 
 I am looking for junior software development opportunities where I can work with backend systems, databases, data processing, and practical engineering problems.
 
