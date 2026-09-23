@@ -1,21 +1,24 @@
 ## Hi, I'm Dmitrii Presniakov
 
-Junior software developer focused on Python, backend development and practical software engineering.
+Junior Software Developer focused on Python, machine learning, backend development and practical software engineering.
 
-I am a third-year Business Information Technology student at Karelia University of Applied Sciences in Joensuu, Finland. I am currently doing a remote internship at the Nansen Environmental and Remote Sensing Center (NERSC) in Bergen, Norway.
+I am completing a Bachelor of Business Administration (UAS) degree in Business Information Technology at Karelia University of Applied Sciences in Joensuu, Finland. I have completed my coursework and professional internship, and my next step is the bachelor's thesis.
 
-My internship work involves Python-based workflows for Sentinel-1 SAR satellite imagery and sea ice/water classification, including data preprocessing, dataset preparation, model experimentation, and training pipeline setup.
+Most recently, I completed a five-month remote internship at the Nansen Environmental and Remote Sensing Centre (NERSC) in Bergen, Norway. There I developed a machine learning framework for sea ice classification using Sentinel-1 SAR imagery, working with Python, PyTorch, PyTorch Lightning and TerraTorch.
 
-I am interested in backend systems, data-oriented applications, clean project structure, and writing code that is understandable and maintainable.
+My work included dataset preparation and annotation, model experimentation, training pipeline development, evaluation of different technical approaches, and building maintainable code intended for continued use in future model development.
+
+I am interested in software development, applied AI, backend systems, data-oriented applications, and building practical solutions that solve real problems.
 
 ## Focus areas
 
 - Python development
+- Machine learning and applied AI
 - Backend systems and APIs
 - Databases and SQL
 - Data processing and automation
 - Maintainable project structure
-- Applied ML workflows
+- Software architecture
 
 ## Tech stack
 
@@ -47,7 +50,7 @@ I am interested in backend systems, data-oriented applications, clean project st
 
 ## Looking for
 
-I am looking for junior software development opportunities where I can work with backend systems, databases, data processing, and practical engineering problems.
+I am looking for junior software development opportunities in Python, machine learning, backend development or general software engineering, where I can continue building practical experience and contribute to real-world projects.
 
 ## Contact
 
