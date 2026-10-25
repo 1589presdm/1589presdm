@@ -16,17 +16,19 @@ I am interested in software development, applied AI, backend systems, data-orien
 - Machine learning and applied AI
 - Backend systems and APIs
 - Databases and SQL
+- Testing & QA Automation
 - Data processing and automation
 - Maintainable project structure
 - Software architecture
 
 ## Tech stack
 
-**Languages:** Python, C#, SQL  
-**Backend:** REST APIs, basic .NET experience  
-**Databases:** MariaDB, SQL, database design basics  
-**Tools:** Git, GitHub, Linux, Docker basics, VS Code, PyCharm  
+**Languages:** Python, C#, JavaScript(ES6+)  
+**Backend:** REST APIs, .NET experience, Node.js, React, Express
+**Databases:** SQL, noSQL, database design  
+**Tools:** Git, GitHub, Linux, Docker basics, VS Code, PyCharm, Postman, Swagger/OpenAPI 
 **Data & ML tools:** NumPy, pandas, Matplotlib, PyTorch
+**Testing** React Testing Library, supertest, Integration testing, Unit testing
 
 ## Languages
 
